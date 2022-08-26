@@ -1,0 +1,124 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "img": "assets/biryani.jpg",
+            "category": "breakfast",
+            "title": "Briyani",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "2",
+            "img": "assets/bread.jpg",
+            "category": "breakfast",
+            "title": "Bread",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "3",
+            "img": "assets/cappuccino.jpg",
+            "category": "snacks",
+            "title": "Cappuccino",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "4",
+            "img": "assets/dhokla.jpg",
+            "category": "snacks",
+            "title": "Dhokla",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "5",
+            "img": "assets/dosa.jpg",
+            "category": "breakfast",
+            "title": "Dosa",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "6",
+            "img": "assets/jalebi.jpg",
+            "category": "sweet",
+            "title": "Fresh Jalebi",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "7",
+            "img": "./assets/ice-cream.jpg",
+            "category": "sweet",
+            "title": "Ice Cream",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "8",
+            "img": "assets/idli.jpg",
+            "category": "breakfast",
+            "title": "Idli",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "9",
+            "img": "assets/korma.jpg",
+            "category": "dinner",
+            "title": "Korma",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "10",
+            "img": "assets/matar-paneer.jpg",
+            "category": "dinner",
+            "title": "Dinner",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "11",
+            "img": "assets/pastry.jpg",
+            "category": "sweet",
+            "title": "Sweet",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "12",
+            "img": "assets/pistachios.jpg",
+            "category": "snacks",
+            "title": "Pistachios",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "13",
+            "img": "assets/popcorn.jpg",
+            "category": "snacks",
+            "title": "Popcorn",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "14",
+            "img": "assets/rajkachori.jpg",
+            "category": "fast-food",
+            "title": "Raj Kachori",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        },
+        {
+            "id": "15",
+            "img": "assets/rasgulla.jpg",
+            "category": "sweet",
+            "title": "Rasgulla",
+            "desc": "It is a dish made with love. You will be delightfl to have a bite of it. This is a savory dish.",
+            "price": "200 RS"
+        }
+    ]
+}
